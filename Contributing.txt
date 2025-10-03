@@ -1,3 +1,7 @@
 If you want to contribute follow our Style-Guide.txt
 
-Once you create your theme put in /apps and  make a Pull Request with link to the apps website. @OwenGrumbles will review the PR.
+Once you create your theme put in /apps and  make a Pull Request with link to the apps website. And under "SUPPORTED APPS:" in README.txt add the following. Default to the projects website if it exists.
+<app name>|<app website /github repo>
+Easy
+
+@OwenGrumbles will review the PR.
