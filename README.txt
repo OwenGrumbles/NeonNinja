@@ -1,7 +1,7 @@
 🥷 NeonNinja
 A High Contrast Dark Theme For Hackers
 
-ABOUT: Made because I wanted to bee cool.
+ABOUT: Made because I wanted to be cool.
 
 COLORS: See NeonNinja-Colors.txt
 
