@@ -64,11 +64,11 @@ read it before opening a new issue about your will.")
 
 ;; Assigment form: VARIABLE COLOR [256-COLOR [TTY-COLOR]]
 (let ((colors '(;; Upstream theme color
-                (NeonNinja-bg      "#200926" "unspecified-bg" "unspecified-bg") ; official background
+                (NeonNinja-bg      "#130b16" "unspecified-bg" "unspecified-bg") ; official background
                 (NeonNinja-fg      "#F3FFFC" "#ffffff" "brightwhite") ; official foreground
                 (NeonNinja-current "#10C4BB" "#303030" "brightblack") ; official current-line/selection
                 (NeonNinja-region  "#120926" "#303030" "brightblack") ; NeonNinja-current with fake 75% alpha
-                (NeonNinja-comment "#120926" "#5f5faf" "blue")        ; official comment
+                (NeonNinja-comment "#001ee8" "#001ee8" "blue")        ; official comment
                 (NeonNinja-cyan    "#00FFFF" "#87d7ff" "brightcyan")  ; official cyan
                 (NeonNinja-green   "#37CC00" "#5fff87" "green")       ; official green
                 (NeonNinja-orange  "#F7E300" "#ffaf5f" "brightred")   ; official orange
