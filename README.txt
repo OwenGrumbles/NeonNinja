@@ -5,6 +5,6 @@ ABOUT: Made because I wanted to bee cool.
 
 COLORS: See NeonNinja-Colors.txt
 
-CONTRIBUTING: See Style-Guide.txt
+CONTRIBUTING: See Contributing.txt & Style-Guide.txt
 
 SUPPORTRD APPS:
