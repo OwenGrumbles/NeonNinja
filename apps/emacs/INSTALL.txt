@@ -1,0 +1,8 @@
+INSTALL
+==============
+
+Copy NeonNinja.el --> .emacs.d/themes
+
+Paste this --> init.el
+(add-to-list 'custom-theme-load-path "~/.emacs.d/themes")
+(load-theme 'NeonNinja t)
