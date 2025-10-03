@@ -9,6 +9,9 @@ ABOUT: Made because I wanted to be cool.
 
 COLORS: See NeonNinja-Colors.txt
 
+WHAT DOES IT LOOK LIKE?
+See NeonNinja-demo.png
+
 CONTRIBUTING: See Contributing.txt & Style-Guide.txt
 
 SCRIPTS
