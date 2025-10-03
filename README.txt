@@ -14,4 +14,5 @@ CONTRIBUTING: See Contributing.txt & Style-Guide.txt
 SCRIPTS
 Please note they are in BETA and are not fully funtionable!
 
-SUPPORTRD APPS:
+SUPPORTRD APPS
+EMACS | gnu.org/software/emacs
