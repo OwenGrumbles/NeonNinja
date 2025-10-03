@@ -1,0 +1,15 @@
+#370000 Dark maroon
+#37CC00 Green apple
+#F70000 Fire engine red
+#F7E300 Dandelion
+#00109E Indigo blue
+#FF1073 Cerise
+#10C4BB Topaz
+#F3FFFC White
+#09000D Black
+#00FF0D Neon green
+#FFFF0D Yellow
+#00C3FF Bright sky blue
+#FF00FF Pink/purple
+#00FFFF Cyan
+#FFFFFF White
