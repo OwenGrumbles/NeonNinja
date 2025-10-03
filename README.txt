@@ -14,19 +14,24 @@ Made because I wanted to be cool. And needed a terminal based color-scheme for T
 COLORS
 ======================================
 See NeonNinja-Colors.txt
+======================================
 
 WHAT DOES IT LOOK LIKE?
 ======================================
 See NeonNinja-demo.png
+======================================
 
 CONTRIBUTING
 ======================================
 See Contributing.txt & Style-Guide.txt
+======================================
 
 SCRIPTS
 ======================================
 Please note they are in BETA and are not fully funtionable!
+======================================
 
 SUPPORTRD APPS
 ======================================
 EMACS | gnu.org/software/emacs
+======================================

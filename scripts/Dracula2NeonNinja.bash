@@ -28,8 +28,8 @@ declare -A DRACULA_HEX=(
 
 # NeonNinja HEX mapping (drop-in replacement)
 declare -A NEONNINJA_HEX=(
-    ["#282A36"]="#370000"   # Background → Shadow Cloak
-    ["#6272A4"]="#120926"   # Current Line / Comment → Silent Step / Hidden Scroll
+    ["#282A36"]="#130b16"   # Background → Shadow Cloak
+    ["#6272A4"]="#001ee8"   # Current Line / Comment → Silent Step / Hidden Scroll
     ["#44475A"]="#120926"   # Selection → Shuriken Strike
     ["#F8F8F2"]="#F3FFFC"   # Foreground → Moonlight
     ["#FF5555"]="#F70000"   # Red → Fire Katana
