@@ -1,21 +1,32 @@
 🥷 NeonNinja
+======================================
 A High Contrast GNU Dark Theme For Hackers
 
 LISCENSE
+======================================
 GPLv3 License
 See License.txt or https://www.gnu.org/licenses/gpl-3.0.txt
 
-ABOUT: Made because I wanted to be cool.
+ABOUT
+======================================
+Made because I wanted to be cool. And needed a terminal based color-scheme for TTY apps.
 
-COLORS: See NeonNinja-Colors.txt
+COLORS
+======================================
+See NeonNinja-Colors.txt
 
 WHAT DOES IT LOOK LIKE?
+======================================
 See NeonNinja-demo.png
 
-CONTRIBUTING: See Contributing.txt & Style-Guide.txt
+CONTRIBUTING
+======================================
+See Contributing.txt & Style-Guide.txt
 
 SCRIPTS
+======================================
 Please note they are in BETA and are not fully funtionable!
 
 SUPPORTRD APPS
+======================================
 EMACS | gnu.org/software/emacs

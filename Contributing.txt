@@ -7,11 +7,11 @@ The tree should look like
 |/apps
  |/app name
    |config theme file for app
-   |Install.txt_
+   |Install.txt
 
 
-And under "SUPPORTED APPS:" in README.txt add the following. Default to the projects website if it exists.
-<app name>|<app website /github repo>
+And under "SUPPORTED APPS" in README.txt add the following. Default to the projects website if it exists.
+<app name> | <app website /github repo>
 Easy
 
 @OwenGrumbles will review the PR.
