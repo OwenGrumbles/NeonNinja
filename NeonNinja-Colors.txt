@@ -1,10 +1,10 @@
 # NeonNinja TTY / GNU Theme Mapping (Ninja Names)
 
-Background:       #370000   # Shadow Cloak
-Current Line:     #09000D   # Silent Step
+Background:       #200926   # Shadow Cloak
+Current Line:     #120926   # Silent Step
 Selection:        #10C4BB   # Shuriken Strike
 Foreground:       #F3FFFC   # Moonlight
-Comment:          #09000D   # Hidden Scroll
+Comment:          #120926  # Hidden Scroll
 
 Red Blade:        #F70000   # Fire Katana (Errors / Alerts)
 Golden Shuriken:  #F7E300   # Dandelion Throw (Highlights / Numbers)

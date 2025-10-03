@@ -12,7 +12,7 @@ OUTPUT="$2"
 
 # Dracula HEX codes (standard 16-color palette)
 declare -A DRACULA_HEX=(
-    ["#282A36"]="BACKGROUND"
+    ["#200926"]="BACKGROUND"
     ["#6272A4"]="CURRENT_LINE"
     ["#44475A"]="SELECTION"
     ["#F8F8F2"]="FOREGROUND"
@@ -29,8 +29,8 @@ declare -A DRACULA_HEX=(
 # NeonNinja HEX mapping (drop-in replacement)
 declare -A NEONNINJA_HEX=(
     ["#282A36"]="#370000"   # Background → Shadow Cloak
-    ["#6272A4"]="#09000D"   # Current Line / Comment → Silent Step / Hidden Scroll
-    ["#44475A"]="#10C4BB"   # Selection → Shuriken Strike
+    ["#6272A4"]="#120926"   # Current Line / Comment → Silent Step / Hidden Scroll
+    ["#44475A"]="#120926"   # Selection → Shuriken Strike
     ["#F8F8F2"]="#F3FFFC"   # Foreground → Moonlight
     ["#FF5555"]="#F70000"   # Red → Fire Katana
     ["#FFB86C"]="#F7E300"   # Orange → Golden Shuriken
